@@ -4,5 +4,5 @@ Autentication using CookieAuthentication
 - [x] Edit User
 - [x] Logout
 
-Este projeto foi alterado em estudos por [Beirinha](https://github.com/beirinha).
-Créditos para [DevMedia](https://devmedia.com.br)
+## Este projeto foi alterado em estudos por [Beirinha](https://github.com/beirinha).
+## Créditos para [DevMedia](https://devmedia.com.br)
